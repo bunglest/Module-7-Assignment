@@ -21,3 +21,10 @@ The assignment simulates a full development workflow by having me act as both th
 Run the program directly from the terminal:
 ```bash
 python undocumented_script.py
+```
+
+## Screencast link: 
+
+```bash
+https://youtu.be/js0q4HD7sbo
+```
